@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "desc": "coockies",
+      "price": "8",
+      "id": 1,
+      "Cat_id": 5
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "cust_id": 1,
+      "desc": "blabla",
+      "price": 12,
+      "amount": 4
+    },
+    {
+      "desc": "coockies",
+      "price": "8",
+      "amount": 2,
+      "id": 2
+    },
+    {
+      "desc": "coockies",
+      "price": "8",
+      "amount": 7,
+      "id": 3
+    }
+  ],
+  "Order_det": [
+    {
+      "id": 1,
+      "cust_id": 1,
+      "desc": "blabla",
+      "price": 12,
+      "amount": 4
+    }
+  ],
+  "Category": [
+    {
+      "id": 1,
+      "desc": "blabla"
+    }
+  ]
+}
